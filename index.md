@@ -19,7 +19,7 @@ Cubernetes는 Docker 컨테이너용 오픈 소스 orchestration 시스템
 - 컨테이너를 한 노드에서 다른 노드로 이동할 수 있음
 
 ## 쿠버네티스 장점
-### 1.어디서든 실행 가능
+### 1. 어디서든 실행 가능
  - On-premise (내부 데이터센터)
  - Public (Google Cloud, AWS)
  - Hybrid : public & private
