@@ -23,7 +23,10 @@ Cubernetes는 Docker 컨테이너용 오픈 소스 orchestration 시스템
  - On-premise (내부 데이터센터)
  - Public (Google Cloud, AWS)
  - Hybrid : public & private
-
+## 2. 고도화된 모듈화
+## 3. 오픈 소스
+## 4. 커뮤니티
+## 5. 구글의 지원
 
 2. Cloud / On-premise setup
 3. Cluster Setup
