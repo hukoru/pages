@@ -18,6 +18,12 @@ Cubernetes는 Docker 컨테이너용 오픈 소스 orchestration 시스템
 - 컨테이너가 죽었을 때 다시 시작됨
 - 컨테이너를 한 노드에서 다른 노드로 이동할 수 있음
 
+### 쿠버네티스는 어디서든 실행 가능
+ - On-premise (내부 데이터센터)
+ - Public (Google Cloud, AWS)
+ - Hybrid : public & private
+
+
 2. Cloud / On-premise setup
 3. Cluster Setup
 4. Building Containers
