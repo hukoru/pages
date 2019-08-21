@@ -6,7 +6,7 @@
 ### Overview
 
 # Introduction
-1. What is Kubernetes
+## 1. What is Kubernetes
 
 Cubernetes는 Docker 컨테이너용 오픈 소스 orchestration 시스템
 
