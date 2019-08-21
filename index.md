@@ -38,3 +38,24 @@
 12. InterPod (Anti-)Affinity
 13. Taints and Tolerations
 14. Operators
+
+# Administration
+1. Master Services
+2. Quotas and Limits
+3. Namespaces
+4. User Management
+5. RBAC
+6. Networking
+7. Node Maintenance
+8. High Availability
+9. TLS on ELB
+
+# Packaging
+1. Introduction to Helm
+2. Creating Helm Charts
+3. Helm Repository
+4. Building & Deoloying
+
+# Extras
+1. kubeadm
+2. TLS Certificates with cert-manager
